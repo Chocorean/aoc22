@@ -28,3 +28,19 @@ I have been cheating for the first time on day 13 (*bruh*), but I was starting
 to lose confidence and I needed to move on. After verifying my implementation
 was wrong (I validated part 1 with his code), I went back to my implementation
 once again, reviwed my logic, and finally found what the [mistake](./c13/src/main.rs#L39).
+
+### Code for day 14 is currently running
+
+#### The denial
+
+I was looking at FTL's code, and realized how long mine will take to complete. I
+am currently thinking about trying something similar to increase the speed of my
+implementation.
+Overall I'm still okay with mine, for some reasons I struggled yesterday on it,
+but this morning I woke up fresh and I started over with a new approach, and
+eventually it was much easier like that.
+
+#### The realization
+
+Ok, let's take a break on this and move on day 15. I am opening an issue and I
+will take a look at this later.
