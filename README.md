@@ -2,6 +2,10 @@
 
 My modest attempt at AoC22 in Rust.
 
+Each of all sub-directories is an independant rust project. Depending on my
+mood of the day, I may have modified/broken/commented out the first part of the
+challenge.
+
 ## Comments
 
 ### After validating day 13, Dec 17
