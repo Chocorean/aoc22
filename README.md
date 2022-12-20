@@ -44,3 +44,8 @@ eventually it was much easier like that.
 
 Ok, let's take a break on this and move on day 15. I am opening an issue and I
 will take a look at this later.
+
+### After validating day 15, Dec 20
+
+I should stop trying to implement everything myself and sometimes rely more on
+other people's work. Thank you [Jon](https://github.com/jonathanGB/unbounded-interval-tree)!
