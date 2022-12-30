@@ -53,3 +53,11 @@ will take a look at this later.
 
 I should stop trying to implement everything myself and sometimes rely more on
 other people's work. Thank you [Jon](https://github.com/jonathanGB/unbounded-interval-tree)!
+
+## The End
+
+I can say I have failed day 16. I do feel I have improved my Rust knowledge,
+which is enough for now. It is a specific time of the year, everyone was a lot
+of stuff to think about, me included. Overall I am happy enough with what I have
+done. I have learnt and that is what matters. Now is the time to find something
+else to do. Thanks AoC22 !
